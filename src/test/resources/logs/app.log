@@ -1,0 +1,13 @@
+25/12/2019 10:49:47 NAGARAJ Config file loaded successfully
+25/12/2019 10:49:47 NAGARAJ OR file loaded successfully
+25/12/2019 10:49:52 NAGARAJ chromeBrowser launched successfully
+25/12/2019 10:50:02 NAGARAJ URL loaded successfully
+25/12/2019 10:50:08 NAGARAJ Successfully Clicked on Login_XPATH
+25/12/2019 10:50:08 NAGARAJ Entered value as: nagaraj.g.work@gmail.com on Element: email_CSS
+25/12/2019 10:50:08 NAGARAJ Successfully Clicked on signin_XPATH
+25/12/2019 10:50:08 NAGARAJ Entered value as: Zoho@123# on Element: password_CSS
+25/12/2019 10:50:08 NAGARAJ Successfully Clicked on signin_XPATH
+25/12/2019 10:51:43 NAGARAJ Successfully Clicked on CRM_XPATH
+25/12/2019 10:51:44 NAGARAJ Successfully Clicked on Account_LinkTxt
+25/12/2019 10:51:45 NAGARAJ Successfully Clicked on newAcc_XPATH
+25/12/2019 10:51:55 NAGARAJ Entered value as: Nagaraj on Element: AccName_XPATH
