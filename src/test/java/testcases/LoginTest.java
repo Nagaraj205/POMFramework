@@ -25,7 +25,7 @@ public class LoginTest extends BaseTest
 			Homepage home = new Homepage();
 			LoginPage login = home.goToLogin();
 			login.doLogin(data.get("Username"), data.get("Password"));
-			Assert.fail("Login Test Failed");
+//			Assert.fail("Login Test Failed");
 			
 		
 		}

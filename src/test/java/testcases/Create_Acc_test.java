@@ -30,7 +30,7 @@ public class Create_Acc_test extends BaseTest
 			Acc_page acc = Page.menu.gotoAccountsTab();
 			Create_Acc_Page create = acc.gotoCreate_acc();
 			create.create_acc(data.get("AccountName"));
-			Assert.fail("Failed t create Account");
+//			Assert.fail("Failed t create Account");
 		}
 		catch (Exception e) {
 			e.printStackTrace();
